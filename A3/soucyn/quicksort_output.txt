@@ -1,0 +1,4 @@
+***QUICKSORT***
+Size of Array:  20
+Initial Array:  [5, 10, 20, 35, 37, 32, 36, 1, 39, 12, 18, 11, 1, 11, 6, 16, 16, 21, 8, 14] 
+Sorted Array after sorting with Quicksort:  [1, 1, 5, 6, 8, 10, 11, 11, 12, 14, 16, 16, 18, 20, 21, 32, 35, 36, 37, 39]

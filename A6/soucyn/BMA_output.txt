@@ -1,0 +1,8 @@
+******BMA******
+
+Original text: 'This might work maybe if not oh well'
+
+First run with pattern 'well' index is  32
+Second run with pattern 'q' index is  -1
+Third run with pattern 'k m' index is  14
+Fourth run with pattern '.' index is  -1
